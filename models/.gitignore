@@ -1,3 +1,5 @@
 /best_model.pkl
 /grid_search_results.json
 /model_metadata.json
+/final_model.pkl
+/training_results.json
