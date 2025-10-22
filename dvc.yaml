@@ -1,0 +1,12 @@
+stages:
+  prepare-data:
+    cmd: python src/prepare_data.py
+    deps:
+    - data/raw/admission.csv
+    - src/prepare_data.py
+    outs:
+    - data/processed/X_test.csv
+    - data/processed/X_train.csv
+    - data/processed/scaler.pkl
+    - data/processed/y_test.csv
+    - data/processed/y_train.csv

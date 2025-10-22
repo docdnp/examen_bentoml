@@ -1,0 +1,5 @@
+/X_train.csv
+/X_test.csv
+/y_train.csv
+/y_test.csv
+/scaler.pkl
