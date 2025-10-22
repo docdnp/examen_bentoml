@@ -1,10 +1,10 @@
-# Examen BentoML
+# BentoML Exam
 
-Ce repertoire contient l'architecture basique afin de rendre l'évaluation pour l'examen BentoML.
+This repository contains the basic architecture to deliver the assessment for the BentoML exam.
 
-Vous êtes libres d'ajouter d'autres dossiers ou fichiers si vous jugez utile de le faire.
+You are free to add other folders or files if you find it useful to do so.
 
-Voici comment est construit le dossier de rendu de l'examen:
+Here is how the exam submission folder is structured:
 
 ```bash       
 ├── examen_bentoml          
@@ -16,13 +16,12 @@ Voici comment est construit le dossier de rendu de l'examen:
 │   └── README.md
 ```
 
-Afin de pouvoir commencer le projet vous devez suivre les étapes suivantes:
+In order to start the project you must follow these steps:
 
-- Forker le projet sur votre compte github
+- Fork the project on your GitHub account
 
-- Cloner le projet sur votre machine
+- Clone the project on your machine
 
-- Récuperer le jeu de données à partir du lien suivant: [Lien de téléchargement]( https://datascientest.s3-eu-west-1.amazonaws.com/examen_bentoml/admissions.csv)
+- Download the dataset from the following link: [Download link](https://datascientest.s3-eu-west-1.amazonaws.com/examen_bentoml/admissions.csv)
 
 
-Bon travail!
